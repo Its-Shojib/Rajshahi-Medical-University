@@ -1,0 +1,21 @@
+.background-blue{
+    background-color: rgba(2, 14, 44, 0.972);
+    text-decoration:none;
+}
+.text-deco{
+    text-decoration: none;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+.col-2 img{
+    height: 80%;
+    width: 100%;
+}
+.col img{
+    height:60%;
+    width: 100%;
+    padding-left: 1%;
+}
+
